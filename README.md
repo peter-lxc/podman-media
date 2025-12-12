@@ -1,4 +1,4 @@
-# Damo's Media Pod
+# Media Pod using Podman
 
 This tutorial will show the technical instructions to install Plex,
 Overseerr, Sonarr, Radarr, SABNZBd, qBittorrent, Prowlarr, and Gluetun.
